@@ -1,0 +1,7 @@
+.waitList {
+  font-size: var(--fs-md);
+  background-color: rgb(143, 69, 0, 0.85);
+  color: var(--clr-white);
+  padding: 0.65rem 1.8rem;
+  border-radius: 2rem;
+}
